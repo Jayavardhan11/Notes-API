@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Welcome Note",
+    "content": "This is your first note. Feel free to edit or delete it."
+  },
+  {
+    "id": 2,
+    "title": "Discipline Over Motivation",
+    "content": "Motivation gets you going, but discipline keeps you growing."
+  },
+  {
+    "id": 3,
+    "title": "Small Steps",
+    "content": "You don’t need to see the whole staircase, just take the first step."
+  },
+  {
+    "id": 4,
+    "title": "Consistency Wins",
+    "content": "Success is not about greatness, it’s about consistency."
+  },
+  {
+    "id": 5,
+    "title": "The Process",
+    "content": "Fall in love with the process, and the results will come."
+  },
+  {
+    "id": 6,
+    "title": "You vs You",
+    "content": "Don’t compare yourself to others. Compare yourself to who you were yesterday."
+  }
+]
