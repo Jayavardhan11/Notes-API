@@ -1,0 +1,25 @@
+{
+  "name": "notes-api",
+  "version": "1.0.0",
+  "description": "A beginner-level Notes REST API with Express.js",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "notes",
+    "rest-api"
+  ],
+  "author": "Jayavardhan Atti",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
