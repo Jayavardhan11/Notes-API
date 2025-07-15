@@ -72,4 +72,4 @@ notes-api/
 
 ## 📜 License
 
-This project is licensed under the [MIT License](./LICENSE) © 2024 Jayavardhan Atti.
+This project is licensed under the [MIT License](./License) © 2024 Jayavardhan Atti.
